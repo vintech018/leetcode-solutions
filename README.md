@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/vintech018/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/vintech018/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vintech018/leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/vintech018/leetcode-solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/vintech018/leetcode-solutions/tree/master/0189-rotate-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vintech018/leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/vintech018/leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Binary Search
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/vintech018/leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/vintech018/leetcode-solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
