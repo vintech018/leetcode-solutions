@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vintech018/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vintech018/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vintech018/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/vintech018/leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vintech018/leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/vintech018/leetcode-solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/vintech018/leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/vintech018/leetcode-solutions/tree/master/0268-missing-number) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/vintech018/leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vintech018/leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/vintech018/leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Simulation
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/vintech018/leetcode-solutions/tree/master/0268-missing-number) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/vintech018/leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/vintech018/leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Dynamic Programming
 |  |
@@ -74,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/vintech018/leetcode-solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## String
+|  |
+| ------- |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/vintech018/leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 <!---LeetCode Topics End-->
