@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vintech018/leetcode-solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/vintech018/leetcode-solutions/tree/master/0268-missing-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vintech018/leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/vintech018/leetcode-solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/vintech018/leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Dynamic Programming
 |  |
@@ -74,12 +75,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/vintech018/leetcode-solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/vintech018/leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/vintech018/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vintech018/leetcode-solutions/tree/master/0268-missing-number) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/vintech018/leetcode-solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/vintech018/leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/vintech018/leetcode-solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bit Manipulation
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/vintech018/leetcode-solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/vintech018/leetcode-solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -130,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/vintech018/leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Backtracking
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/vintech018/leetcode-solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->
