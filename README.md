@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/vintech018/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vintech018/leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/vintech018/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/vintech018/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2169-simple-bank-system](https://github.com/vintech018/leetcode-solutions/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/vintech018/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/vintech018/leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/vintech018/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/vintech018/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/vintech018/leetcode-solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/vintech018/leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/vintech018/leetcode-solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vintech018/leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/vintech018/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/vintech018/leetcode-solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/vintech018/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/vintech018/leetcode-solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/vintech018/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/vintech018/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/vintech018/leetcode-solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Depth-First Search
 |  |
