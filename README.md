@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/vintech018/leetcode-solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/vintech018/leetcode-solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/vintech018/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/vintech018/leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/vintech018/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vintech018/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/vintech018/leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/vintech018/leetcode-solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vintech018/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/vintech018/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/vintech018/leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/vintech018/leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/vintech018/leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/vintech018/leetcode-solutions/tree/master/3531-count-covered-buildings) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/vintech018/leetcode-solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1925-count-square-sum-triples](https://github.com/vintech018/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/vintech018/leetcode-solutions/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/vintech018/leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/vintech018/leetcode-solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Sliding Window
 |  |
